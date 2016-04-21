@@ -10,9 +10,7 @@ yleft     = split left group y dataframe
 yright     = split right group y dataframe
 
 Outputs :
-scores    = relative variance reduction associated with each split
+scores    = differential treatment effect score for each split
 
-
-This module and function has been derived from https://github.com/rtaormina/MATLAB_ExtraTrees/blob/master/Functions/Regression/computeScores_r.m
 
 For any improvements of this module feel free to do a pull request.
